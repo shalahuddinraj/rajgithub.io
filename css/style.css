@@ -1,0 +1,143 @@
+body{
+	
+	background: #f5f5f5;
+}
+.header-area{
+	background:#005A31;
+	padding: 15px 0px;
+	color: #FFF;
+}
+h1 a:hover:not(.active) {
+    background-color: red;
+}
+.header-logo{
+	float: left;
+	margin-left: 20px;
+	padding-left: 10px;
+	border-left: 2px solid#FFF;
+	border-right: 2px solid#FFF;
+	padding-right: 10px;
+}
+.header-logo h1{
+	margin: 0;
+	font-size: 22px!important;;
+}
+.header-area h1{
+	font-size: 18px;
+	text-align: center;
+	margin: 0;
+}
+.header-area h1 a{
+	padding: 0px 15px;
+}
+
+.header-text{
+	width: 150px;
+	height:60px;
+	background-color: #005A31;
+	text-align: center;
+	padding: 15px;
+}
+.header-text2{
+	width: 150px;
+	height:60px;
+	background-color:#005A31;
+	text-align: center;
+	padding: 15px;
+	margin-top: 220px;
+}
+.header-text h1{
+	color: #fff;
+	margin: 0;
+}
+.header-text p{
+	color: #fff;
+	margin: 0;
+} 
+.header-text2 h1{
+	color: #fff;
+	margin: 0;
+}
+.header-text2 p{
+	color: #fff;
+	margin: 0;
+} 
+.about-area{
+	
+}
+.about-area p{
+	color: #005A31;
+	font-size: 18px;
+	margin: 0;
+	padding:15px;
+	text-align:left;
+}
+.about-area p a{
+	color:#96c096;
+	padding-top: 5px;
+	display: block;
+}
+.about-title{
+
+}
+.about-title img{
+ width:200px;
+  height: 130px;
+}
+.about-title  h1{
+	margin: 0;
+	font-size: 14px;
+	padding: 5px 0px;
+	padding-left: 10px;
+	color: #000;
+}
+.top-signs{
+	
+}
+.top-signs h1{
+	margin: 0;
+	padding: 10px 20px;
+	font-size: 16px;
+	text-transform: uppercase;
+	color: #005A31;
+}
+.Top-sights{
+	width: 200px;
+	background: #fff;
+	border: 1px solid#757575;
+}
+.Top-sights img{
+	width: 200px;
+	height: 110px;
+}
+.Top-sights h2{
+	margin: 0;
+	font-size: 16px;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+.Top-sights p{
+	margin: 0;
+	padding-left: 15px;
+	font-size: 14px;
+	padding-bottom: 15px;
+}
+.Top-sights .star{
+	width: 120px;
+	height: 15px;
+	margin-left: 15px;
+	padding-top: 10px;
+}
+.fotter-text{
+	
+}
+.fotter-text h2{
+	background:#005A31;
+	margin: 0;
+	padding: 10px 30px;
+	text-align: center;
+	color:red;
+	font-size:18px;
+}
+tbody h2:hover:not(.active) {
+    background-color: powderblue;
